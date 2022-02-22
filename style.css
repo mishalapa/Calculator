@@ -42,11 +42,11 @@
     word-wrap: break-word;
     word-break: break-all;
 }
-  .before {
+  .previous {
     color: rgba(255, 255, 255, 0.7);
     font-size: 1.5rem;
 }
-  .now {
+  .current {
     color: rgba(255, 255, 255, 0.95);
     font-size: 2.5rem;
   }
